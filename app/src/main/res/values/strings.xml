@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quadraped Robot</string>
+    <string name="refresh">refresh</string>
+    <string name="start">Start</string>
+    <string name="button">Button</string>
+    <string name="welcome">WELCOME</string>
+    <string name="disconnect">disconnected</string>
+</resources>
